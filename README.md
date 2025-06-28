@@ -19,7 +19,7 @@ About Dataset:
 <img src="daily_active_users_by_industry.png" width="700"/>
 
 ### 2. Most Adopted AI Tools (Overall)
-<img src="most_adopted_ai_tools.png" width="700"/>
+<img src="Most Adopted AI Tools (Overall).png" width="700"/>
 
 
 ## 🧰 Tools Used
