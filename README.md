@@ -16,7 +16,7 @@ About Dataset:
 - ## 📈 Visualizations
 
 ### 1. Total Daily Active Users by Industry
-<img src="assets/daily_active_users_by_industry.png" width="700"/>
+<img src="daily_active_users_by_industry.png" width="700"/>
 
 ### 2. Most Adopted AI Tools (Overall)
 <img src="assets/most_adopted_ai_tools.png" width="700"/>
